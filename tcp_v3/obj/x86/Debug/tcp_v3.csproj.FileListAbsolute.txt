@@ -1,0 +1,34 @@
+C:\Documents and Settings\duch\moje dokumenty\visual studio 2010\Projects\tcp_v3\tcp_v3\bin\Debug\tcp_v3.exe
+C:\Documents and Settings\duch\moje dokumenty\visual studio 2010\Projects\tcp_v3\tcp_v3\bin\Debug\tcp_v3.pdb
+C:\Documents and Settings\duch\moje dokumenty\visual studio 2010\Projects\tcp_v3\tcp_v3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\duch\moje dokumenty\visual studio 2010\Projects\tcp_v3\tcp_v3\obj\x86\Debug\tcp_v3.Form1.resources
+C:\Documents and Settings\duch\moje dokumenty\visual studio 2010\Projects\tcp_v3\tcp_v3\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\duch\moje dokumenty\visual studio 2010\Projects\tcp_v3\tcp_v3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\duch\moje dokumenty\visual studio 2010\Projects\tcp_v3\tcp_v3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\duch\moje dokumenty\visual studio 2010\Projects\tcp_v3\tcp_v3\obj\x86\Debug\tcp_v3.exe
+C:\Documents and Settings\duch\moje dokumenty\visual studio 2010\Projects\tcp_v3\tcp_v3\obj\x86\Debug\tcp_v3.pdb
+C:\Users\pa_du\OneDrive\Dokumenty\projekty\Tcp\tcp_v3\tcp_v3\obj\x86\Debug\tcp_v3.exe
+C:\Users\pa_du\OneDrive\Dokumenty\projekty\Tcp\tcp_v3\tcp_v3\obj\x86\Debug\tcp_v3.pdb
+C:\Users\pa_du\OneDrive\Dokumenty\projekty\Tcp\tcp_v3\tcp_v3\bin\Debug\tcp_v3.exe
+C:\Users\pa_du\OneDrive\Dokumenty\projekty\Tcp\tcp_v3\tcp_v3\bin\Debug\tcp_v3.pdb
+C:\Users\pa_du\OneDrive\Dokumenty\projekty\Tcp\tcp_v3\tcp_v3\obj\x86\Debug\tcp_v3.csprojResolveAssemblyReference.cache
+C:\Users\pa_du\OneDrive\Dokumenty\projekty\Tcp\tcp_v3\tcp_v3\obj\x86\Debug\tcp_v3.Form1.resources
+C:\Users\pa_du\OneDrive\Dokumenty\projekty\Tcp\tcp_v3\tcp_v3\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\pa_du\OneDrive\Dokumenty\projekty\Tcp\tcp_v3\tcp_v3\obj\x86\Debug\tcp_v3.csproj.GenerateResource.Cache
+C:\Users\Paweł Paduch\Documents\Visual Studio 2015\Projects\Tcp\tcp_v3\tcp_v3\obj\x86\Debug\tcp_v3.exe
+C:\Users\Paweł Paduch\Documents\Visual Studio 2015\Projects\Tcp\tcp_v3\tcp_v3\obj\x86\Debug\tcp_v3.pdb
+C:\Users\Paweł Paduch\Documents\Visual Studio 2015\Projects\Tcp\tcp_v3\tcp_v3\bin\Debug\tcp_v3.exe
+C:\Users\Paweł Paduch\Documents\Visual Studio 2015\Projects\Tcp\tcp_v3\tcp_v3\bin\Debug\tcp_v3.pdb
+C:\Users\Paweł Paduch\Documents\Visual Studio 2015\Projects\Tcp\tcp_v3\tcp_v3\obj\x86\Debug\tcp_v3.csprojResolveAssemblyReference.cache
+C:\Users\Paweł Paduch\Documents\Visual Studio 2015\Projects\Tcp\tcp_v3\tcp_v3\obj\x86\Debug\tcp_v3.Form1.resources
+C:\Users\Paweł Paduch\Documents\Visual Studio 2015\Projects\Tcp\tcp_v3\tcp_v3\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Paweł Paduch\Documents\Visual Studio 2015\Projects\Tcp\tcp_v3\tcp_v3\obj\x86\Debug\tcp_v3.csproj.GenerateResource.Cache
+D:\POLITECHNIKA_ŚWIĘTOKRZYSKA\PSR\Projekt\Tcp\tcp_v3\tcp_v3\bin\Debug\tcp_v3.exe
+D:\POLITECHNIKA_ŚWIĘTOKRZYSKA\PSR\Projekt\Tcp\tcp_v3\tcp_v3\bin\Debug\tcp_v3.pdb
+D:\POLITECHNIKA_ŚWIĘTOKRZYSKA\PSR\Projekt\Tcp\tcp_v3\tcp_v3\obj\x86\Debug\tcp_v3.csprojAssemblyReference.cache
+D:\POLITECHNIKA_ŚWIĘTOKRZYSKA\PSR\Projekt\Tcp\tcp_v3\tcp_v3\obj\x86\Debug\tcp_v3.Form1.resources
+D:\POLITECHNIKA_ŚWIĘTOKRZYSKA\PSR\Projekt\Tcp\tcp_v3\tcp_v3\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\POLITECHNIKA_ŚWIĘTOKRZYSKA\PSR\Projekt\Tcp\tcp_v3\tcp_v3\obj\x86\Debug\tcp_v3.csproj.GenerateResource.cache
+D:\POLITECHNIKA_ŚWIĘTOKRZYSKA\PSR\Projekt\Tcp\tcp_v3\tcp_v3\obj\x86\Debug\tcp_v3.csproj.CoreCompileInputs.cache
+D:\POLITECHNIKA_ŚWIĘTOKRZYSKA\PSR\Projekt\Tcp\tcp_v3\tcp_v3\obj\x86\Debug\tcp_v3.exe
+D:\POLITECHNIKA_ŚWIĘTOKRZYSKA\PSR\Projekt\Tcp\tcp_v3\tcp_v3\obj\x86\Debug\tcp_v3.pdb
